@@ -5,7 +5,7 @@ This software is proprietary and protected by a custom license. See the [LICENSE
 
 # Minecart Dupe Bot
 
-This project is a Minecraft automation bot designed to perform the **minecart duplication** exploit.  
+This project is a Minecraft automation bot designed to perform the **fierball duplication** exploit.  
 It automates the process of duplicating using minecart and fierball.
 
 ## Features
@@ -25,7 +25,7 @@ It automates the process of duplicating using minecart and fierball.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/minecart-dupe.git
+   git clone https://github.com/kingdom-warrior/fierball
    cd minecart-dupe
     ```
 2. Install dependencies:
